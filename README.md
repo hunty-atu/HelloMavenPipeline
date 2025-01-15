@@ -11,3 +11,4 @@ Notes:
 ** Type :wq and press Enter to save and exit.
 ** If you want to exit without saving, type :q! and press Enter.
 ** Add Notepad++ or Visual Studio Code (VS Code) to system's PATH environment variable.
+** Open Maven from cmd line. C:\Users\hunts\mvnTest1>cd mvnApp
